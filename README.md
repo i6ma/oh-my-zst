@@ -5,7 +5,7 @@ standalone stable setup install
 
 ## click [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) please
 For Original edition [ohmyz.sh](https://ohmyz.sh/)  
-请点击[正宗的 oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) [官网地址 ohmyz.sh](https://ohmyz.sh/)，谢谢。
+请点击[正宗的 oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) [官网地址 ohmyz.sh](https://ohmyz.sh/)，谢谢
 
 
 ## Using Oh My Zst
